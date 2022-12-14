@@ -15,6 +15,9 @@ export default function Home() {
         <h1 className={styles.title}>
           Test next.js build
         </h1>
+        <h2>
+          Deployed with Git Integrations
+        </h2>
 
         <p className={styles.description}>
           Get started by editing{' '}
